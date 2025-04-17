@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "learn node js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aakhosh00",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "underscore": "^1.13.7"
+  }
+}

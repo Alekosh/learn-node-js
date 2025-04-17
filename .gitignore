@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+.env
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Output
+*.tsbuildinfo
+
+# Optional - если используешь ESLint или другие инструменты
+.eslintcache
